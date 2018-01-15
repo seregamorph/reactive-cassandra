@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.common.util.concurrent.AsyncFunction com.google.common.util.concurrent.ListenableFuture&lt;O&gt; apply(I)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.util.concurrent.FutureFallback com.google.common.util.concurrent.ListenableFuture&lt;V&gt; create(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

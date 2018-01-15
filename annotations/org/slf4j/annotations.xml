@@ -1,0 +1,5 @@
+<root>
+    <item name='org.slf4j.MDC java.util.Map getCopyOfContextMap()'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
